@@ -279,7 +279,7 @@ Using data from the Stat 20 class survey, the proportion of Berkeley students wh
 \
 
 *Example*\
-Data from a randomized controlled experiment shows that taking a new antibiotic eliminates more than 99% of bacterial infections.
+Data from a randomized controlled experiment shows that taking a new antibiotic eliminates more than 99% of bacterial infections. If you can help me that would be great
 
 ##
 
